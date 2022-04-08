@@ -9,8 +9,8 @@ var radius = 70;
 
 function preload(){
 
-	//dustbinImg = loadImage("dustbin.png");
-	//paperImg = loadImage("paper.png");
+	dustbinImg = loadImage("dustbin.png");
+	paperImg = loadImage("paper.png");
 
 	//dustbinImg = addImage("dustbin.png");
 	//paperImg = addImage("paper.png");
@@ -18,8 +18,8 @@ function preload(){
 	//dustbin.loadImage("dustbin.png");
 	//paper.addImage("paper.png");
 	
-	dustbin.loadImage("dustbin.png");
-	paper.loadImage("paper.png");
+	//dustbin.loadImage("dustbin.png");
+	//paper.loadImage("paper.png");
 }
 
 
